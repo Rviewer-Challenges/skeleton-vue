@@ -1,6 +1,6 @@
 <img align="left"  width="150" height="150" src=".github/rviewer_logo--dark.png" />
 
-## Rviewer skeleton: React
+## Rviewer skeleton: Vue
 
 [![Twitter](https://img.shields.io/badge/rviewer__-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Rviewer_/)
 
@@ -62,7 +62,7 @@ with almost any 3rd party provider, framework, etc...
 ## Support
 
 If you are having problems or need anything else, please let us know by
-[raising a new issue](https://github.com/Rviewer-Challenges/skeleton-react/issues/new/choose).
+[raising a new issue](https://github.com/Rviewer-Challenges/skeleton-vue/issues/new/choose).
 
 ## License
 
