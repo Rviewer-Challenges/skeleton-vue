@@ -1,10 +1,4 @@
 {
-  "compilerOptions": {
-    "allowJs": true,
-    "checkJs": false,
-    "importHelpers": true,
-    "removeComments": true
-  },
   "files": [],
   "references": [
     {
@@ -16,5 +10,11 @@
     {
       "path": "./tsconfig.vitest.json"
     }
-  ]
+  ],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  }
 }
